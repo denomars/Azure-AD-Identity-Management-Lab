@@ -1,5 +1,5 @@
 # Azure-AD-Identity-Management-Lab
-Built an Azure AD lab with users, groups, and admin role assignments to simulate enterprise identity management, laying the foundation for MFA, SSPR, and device join scenarios,
+Built an Azure AD lab with users, groups, and admin role assignments to simulate enterprise identity management, laying the foundation for MFA, SSPR, and device join scenarios
 
 # Project Description
 Designed and deployed a cloud-based identity management lab using Microsoft Entra ID (Azure AD) to
